@@ -293,13 +293,13 @@ h2.section-title:after {
 	width: 100px;
 }
 h2.section-title {
-	color: #dedede;
-	font-size: 3.8em;
-	font-weight: 700;
-	letter-spacing: -1px;
-	margin: 0 0 1.25em;
-	text-align: center;
-	text-transform: uppercase;
+    color: #73615f;
+    font-size: 3.8em;
+    font-weight: 700;
+    letter-spacing: -1px;
+    margin: 0 0 1.25em;
+    text-align: center;
+    text-transform: uppercase;
 }
 #our-work {
 	background: none repeat scroll 0 0 #fff;
