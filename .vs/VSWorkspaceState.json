@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css",
+    "\\owl-carousel"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\css\\icons.css",
   "PreviewInSolutionExplorer": false
 }
